@@ -1,7 +1,3 @@
-# Interfaces With Plotly Apps 
+# Dados fictícios dos APPs mais baixados da PlayStory em 2023 
 
-In this example, we use the Plotly library to create a bar chart with dummy data. We started by creating lists of labels and values to represent our data. Next, we use the "Bar" class from the Plotly library to create an object that represents our bar chart.
-
-Then, we create a "Layout" object to define the title of the chart and the X and Y axis labels. Finally, we use the "Figure" function to create the chart figure, passing our object "data" and "layout" as parameters . We render the plot into an HTML file using the "plot" function from the Plotly "offline" library.
-
-This script can be used as a template for creating other bar charts with the Plotly library by simply modifying the label and value lists and adjusting the title and axis labels as needed.
+In this example, a list of labels and a list of values were created to represent dummy data in a bar chart. With these lists, a "Bar" object from the Plotly library was created, in which the passed parameters were the labels and values. Next, a "Layout" object was created to define the chart title and the X and Y axis labels. The chart figure was created using the "Figure" function and the "data" and "layout" objects as parameters. Finally, the plot was rendered into an HTML file using the "plot" function from the Plotly "offline" library.
