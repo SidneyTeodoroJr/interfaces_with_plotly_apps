@@ -1,3 +1,3 @@
-# Dados fictícios dos APPs mais baixados da PlayStory em 2023 
+# Fictional data of the most downloaded APPs from PlayStory in 2023
 
 In this example, a list of labels and a list of values were created to represent dummy data in a bar chart. With these lists, a "Bar" object from the Plotly library was created, in which the passed parameters were the labels and values. Next, a "Layout" object was created to define the chart title and the X and Y axis labels. The chart figure was created using the "Figure" function and the "data" and "layout" objects as parameters. Finally, the plot was rendered into an HTML file using the "plot" function from the Plotly "offline" library.
